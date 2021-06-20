@@ -1,0 +1,17 @@
+{
+    "name": "smashingCoin",
+    "version": "1.0.0",
+    "description": "How-To-Build-A-Simple-Cryptocurrency-Blockchain-In-Node.js",
+    "main": "smashingCoin.js",
+    "scripts": {
+        "nodemon": "nodemon"
+    },
+    "keywords": [
+        "winlysis"
+    ],
+    "author": "Winlysis Private Limited",
+    "license": "ISC",
+    "dependencies": {
+        "crypto-js": "^4.0.0",
+    }
+}
